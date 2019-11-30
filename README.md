@@ -1,0 +1,2 @@
+# makehowto
+Simple make hoot
